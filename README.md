@@ -60,6 +60,6 @@ Top 5 champion masteries for Bruh:
 5. You will also have to add the user's profile pictures manually or automate it if you wish.
 
 
-(All splash arts are RIOT games properly and are accessed under the appropriate licenses.)
+(All splash arts are RIOT games property and are accessed under the appropriate licenses.)
 
 
