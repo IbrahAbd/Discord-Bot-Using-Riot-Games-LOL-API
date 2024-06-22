@@ -17,7 +17,7 @@ The image consists of:
 9. If a multikill was achieved such as a Penta/Quadra/Triple Kill.
 10. A random splash art is used as backround for the champion played within the game.
 
-The below image is an example from one of my recent games:
+The below generated image is the example of the above:  
 
 <img src="https://github.com/IbrahAbd/Discord-Bot-Using-Riot-Games-LOL-API/blob/main/Ibrahim.jpg" width="500" height="300">
 
@@ -53,12 +53,12 @@ Top 5 champion masteries for Bruh:
 
 # <u>**What you need to change:**</u>
 
-1. The records in puuidPairs.txt are hardcoded to my group of friends as it avoids unnessary processing and requests every time the program is run. You will need to change this to cater to your users/friends by getting their puuids etc 
+1. The records in puuidPairs.txt are hardcoded to the users as it avoids unnessary processing and requests every time the program is run. You will need to change this to cater to your users/friends by getting their puuids etc. I have left my details for reference on stucture. 
 2. The.env file will need to be changed to add your discord bot key given on the developer site.
 3. The RIOT API key needs to be updated.
 4. The discord Channel IDs need to be updated to the desired ones.
 
 
-
+(All splash arts are RIOT games properly and are accessed under the appropriate licenses.)
 
 
