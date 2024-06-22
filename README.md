@@ -57,6 +57,7 @@ Top 5 champion masteries for Bruh:
 2. The.env file will need to be changed to add your discord bot key given on the developer site.
 3. The RIOT API key needs to be updated.
 4. The discord Channel IDs need to be updated to the desired ones.
+5. You will also have to add the user's profile pictures manually or automate it if you wish.
 
 
 (All splash arts are RIOT games properly and are accessed under the appropriate licenses.)
